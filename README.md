@@ -30,20 +30,25 @@ This app uses the OBA Api to collect the library of books. The API returns a JSO
 - Icons for gun and mouse mode
 - More sauce
 
-<!-- Add a link to your live demo in Github Pages 🌐-->
+# Opdracht 1.2 Browser technologies
+Geteste features per device:
+- Zoeken op 2 titels
+- Verwijderen boeken
+- Details boeken bekijken
 
-<!-- ☝️ replace this description with a description of your own work -->
 
-<!-- replace the code in the /docs folder with your own, so you can showcase your work with GitHub Pages 🌍 -->
+## Nexus 5 - android 6.0.1 chrome 75
+All functions work fine, layout is still okay. But the performance is poor because of the background JS.
 
-<!-- Add a nice poster image here at the end of the week, showing off your shiny frontend 📸 -->
+## Lenovo legion y540 - Firefox 73
+All functions are fine, no lagg or crashes. Layout is good and performance is good.
 
-<!-- Maybe a table of contents here? 📚 -->
+## Ipod touch - IOS 6.1.6 Safari 8536.25 
+Website crashes about 10 seconds after loading finished, no interaction possible.
 
-<!-- How about a section that describes how to install this project? 🤓 -->
+## Ipad mini - IOS 9.3.5 Safari 9.0
+Fetch does not work, so interaction is not possible. Layout does load and so does the background that is rendered with JS.
 
-<!-- ...but how does one use this project? What are its features 🤔 -->
+## Screenreader
+The website is not optimized for a screen reader because it can't read the book titles. Inside the <a> there is a <h2> that contains the title. An easy fix would be to insert the title into the a directly. Adding an alt text to the book cover images would help as well.
 
-<!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
-
-<!-- How about a license here? 📜 (or is it a licence?) 🤷 -->
