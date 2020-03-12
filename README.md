@@ -50,5 +50,5 @@ Website crashes about 10 seconds after loading finished, no interaction possible
 Fetch does not work, so interaction is not possible. Layout does load and so does the background that is rendered with JS.
 
 ## Screenreader
-The website is not optimized for a screen reader because it can't read the book titles. Inside the <a> there is a <h2> that contains the title. An easy fix would be to insert the title into the a directly. Adding an alt text to the book cover images would help as well.
+The website is not optimized for a screen reader because it can't read the book titles. Inside the a tag there is a h2 tag that contains the title. An easy fix would be to insert the title into the a directly. Adding an alt text to the book cover images would help as well.
 
