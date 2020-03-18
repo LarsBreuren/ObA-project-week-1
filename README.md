@@ -52,3 +52,11 @@ Fetch does not work, so interaction is not possible. Layout does load and so doe
 ## Screenreader
 The website is not optimized for a screen reader because it can't read the book titles. Inside the a tag there is a h2 tag that contains the title. An easy fix would be to insert the title into the a directly. Adding an alt text to the book cover images would help as well.
 
+# Opdracht 2
+Case 2 - T-shirt ontwerpen
+
+## Eerste schets
+
+![18-03-2020-11 50 03](https://user-images.githubusercontent.com/43336468/76953364-e0c9c680-690e-11ea-9392-df6b7143f6cb.jpg)
+
+
